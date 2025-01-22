@@ -37,7 +37,7 @@ The SignIn and SignUp pages feature visually appealing animations that enhance t
 - Smooth animated transitions
 - Secure login
 
-<img src="assets/img/landingPage.png" alt="First page" width="300"/> <img src="assets/img/signIn.png" alt="Sign In" width="300"/> <img src="assets/img/SignUp.png" alt="Sign Up" width="300"/> 
+<img src="src/main/resources/img/landingPage.png" alt="First page" width="300"/> <img src="src/main/resources/img/signIn.png" alt="Sign In" width="300"/> <img src="src/main/resources/img/SignUp.png" alt="Sign Up" width="300"/> 
 ### 2. Home Page
 The home page lists all available chats with key details for each conversation.
 
@@ -47,7 +47,7 @@ The home page lists all available chats with key details for each conversation.
 - Chat names and last message previews
 - Seen/unseen message statuses
 
-<img src="assets/img/home.png" alt="Home page" width="300"/>
+<img src="src/main/resources/img/home.png" alt="Home page" width="300"/>
 
 ### 3. Single Chat Page
 This is where users can exchange messages in real-time.
@@ -56,7 +56,7 @@ This is where users can exchange messages in real-time.
 - Smooth message sending and receiving
 - Real-time updates with WebSockets
 
-<img src="assets/img/chat.png" alt="Chat page" width="300"/>
+<img src="src/main/resources/img/chat.png" alt="Chat page" width="300"/>
 
 ### 4. Profile Page
 Users can manage their personal details and profile picture.
@@ -65,7 +65,7 @@ Users can manage their personal details and profile picture.
 - Profile editing (name, email, etc.)
 - Profile picture upload
 
-<img src="assets/img/profile.png" alt="Profile page" width="300"/>
+<img src="src/main/resources/img/profile.png" alt="Profile page" width="300"/>
 
 ## Backend Features
 - Spring Boot for a scalable server-side solution
